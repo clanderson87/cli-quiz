@@ -1,0 +1,33 @@
+html {
+  font-family: arial;
+}
+
+header {
+  float: center;
+  margin: 5%;
+}
+
+nav {
+  float: right;
+  width: 30%;
+  margin-left: 5%;
+  background-color: lightblue;
+}
+
+nav li {
+  list-style: none;
+  font-style: none;
+}
+
+body {
+  align-content: left;
+  width: 65%;
+  padding: 5%;
+}
+
+.poem {
+  font-family: tahoma;
+  margin-right: 5%;
+  word-wrap: break-word;
+}
+
